@@ -3451,7 +3451,7 @@ body.the-channel .self-selection-form {
     font-family: 'Mainsail';
     font-style: normal;
     font-weight: 700;
-    src: url(https://www.youngepilepsy.org.uk/themes/custom/hc/assets/webfonts/mainsail/font.woff2) format("woff2"), url(https://www.youngepilepsy.org.uk/themes/custom/hc/assets/webfonts/mainsail/font.woff) format("woff")
+    src: url(https://harpreetslabs.github.io/webview/themes/custom/hc/assets/webfonts/mainsail/font.woff2) format("woff2"), url(https://harpreetslabs.github.io/webview/themes/custom/hc/assets/webfonts/mainsail/font.woff) format("woff")
 }
 
 @keyframes ticker {
