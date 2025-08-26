@@ -191,8 +191,8 @@ fieldset {
 
 @font-face {
     font-family: lg;
-    src: url(https://www.youngepilepsy.org.uk/themes/custom/hc/assets/webfonts/lg/lg.eot?n1z373=);
-    src: url(https://www.youngepilepsy.org.uk/themes/custom/hc/assets/webfonts/lg/lg.eot#iefixn1z373) format("embedded-opentype"), url(https://www.youngepilepsy.org.uk/themes/custom/hc/assets/webfonts/lg/lg.woff?n1z373=) format("woff"), url(https://www.youngepilepsy.org.uk/themes/custom/hc/assets/webfonts/lg/lg.ttf?n1z373=) format("truetype"), url(https://www.youngepilepsy.org.uk/themes/custom/hc/assets/webfonts/lg/lg.svg?n1z373=#lg) format("svg");
+    src: url(https://harpreetslabs.github.io/webview/themes/custom/hc/assets/webfonts/lg/lg.eot?n1z373=);
+    src: url(https://harpreetslabs.github.io/webview/themes/custom/hc/assets/webfonts/lg/lg.eot#iefixn1z373) format("embedded-opentype"), url(https://harpreetslabs.github.io/webview/themes/custom/hc/assets/webfonts/lg/lg.woff?n1z373=) format("woff"), url(https://harpreetslabs.github.io/webview/themes/custom/hc/assets/webfonts/lg/lg.ttf?n1z373=) format("truetype"), url(https://harpreetslabs.github.io/webview/themes/custom/hc/assets/webfonts/lg/lg.svg?n1z373=#lg) format("svg");
     font-weight: 400;
     font-style: normal
 }
