@@ -148,6 +148,7 @@ table {
     box-sizing: inherit
 }
 
+
 [tabindex="-1"]:focus {
     outline: none !important
 }
@@ -46599,7 +46600,6 @@ body.the-channel .pullquote-outer.dark .pullquote-has-image .pullquote-image {
 body.the-channel .pullquote-outer .pullquote-info blockquote {
     font-size: 2rem;
     position: relative;
-    quotes: none !important;
 }
 
 body.the-channel .pullquote-outer .pullquote-info blockquote:before,
