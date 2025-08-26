@@ -1,0 +1,1788 @@
+final yeEpilepsyHtml = r'''
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="cssanimations flexbox objectfit object-fit sr">
+
+<head>
+    <base href="https://www.youngepilepsy.org.uk/">
+    <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff"
+        href="https://use.typekit.net/af/186a4d/00000000000000007735a2e6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3">
+    <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff2"
+        href="https://use.typekit.net/af/186a4d/00000000000000007735a2e6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3">
+    <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff"
+        href="https://use.typekit.net/af/7fa4cd/00000000000000007735a2d6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3">
+    <link rel="preload" as="font" crossorigin="crossorigin" type="font/woff2"
+        href="https://use.typekit.net/af/7fa4cd/00000000000000007735a2d6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3">
+    <link rel="stylesheet" href="https://use.typekit.net/cws4qtj.css">
+    <title>Mental health wellbeing space: Anxiety | Young Epilepsy</title>
+    <script type="text/javascript" async=""
+        src="https://analytics.tiktok.com/i18n/pixel/static/identify_aab09985.js"></script>
+    <script type="text/javascript" async=""
+        src="https://www.googletagmanager.com/gtag/js?id=G-LE33SD8T70&amp;cx=c&amp;gtm=4e58k1h1"></script>
+    <script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/static/main.MWIyN2JhN2U2OQ.js"
+        data-id="CVPPLF3C77U7PSOUM9UG"></script>
+    <script
+        src="https://connect.facebook.net/signals/config/2247541462220785?v=2.9.225&amp;r=stable&amp;domain=www.youngepilepsy.org.uk&amp;hme=3d54ce6fd3d1c49c2c5a1c077deeae25962d09eced833b49457e6337402d21c8&amp;ex_m=84%2C145%2C126%2C18%2C119%2C59%2C40%2C120%2C65%2C58%2C133%2C73%2C13%2C83%2C26%2C114%2C105%2C63%2C66%2C113%2C130%2C92%2C135%2C7%2C3%2C4%2C6%2C5%2C2%2C74%2C82%2C136%2C210%2C157%2C53%2C215%2C212%2C213%2C46%2C172%2C25%2C62%2C219%2C218%2C160%2C28%2C52%2C8%2C55%2C78%2C79%2C80%2C85%2C109%2C27%2C24%2C112%2C108%2C107%2C127%2C64%2C129%2C128%2C42%2C110%2C51%2C102%2C12%2C132%2C37%2C201%2C203%2C167%2C21%2C22%2C23%2C15%2C16%2C36%2C33%2C34%2C69%2C75%2C77%2C90%2C118%2C121%2C38%2C91%2C19%2C17%2C96%2C60%2C31%2C123%2C122%2C124%2C115%2C20%2C30%2C50%2C89%2C131%2C29%2C182%2C153%2C259%2C199%2C143%2C185%2C178%2C87%2C111%2C68%2C100%2C45%2C39%2C98%2C99%2C104%2C49%2C14%2C106%2C97%2C56%2C41%2C93%2C44%2C47%2C0%2C81%2C134%2C1%2C103%2C11%2C101%2C9%2C48%2C76%2C54%2C125%2C57%2C95%2C72%2C71%2C43%2C116%2C70%2C67%2C61%2C94%2C86%2C35%2C117%2C32%2C88%2C10%2C137"
+        async=""></script>
+    <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
+    <script type="text/javascript" async=""
+        src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=CVPPLF3C77U7PSOUM9UG&amp;lib=ttq"></script>
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MCHH9B5"></script>
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-MCHH9B5');</script>
+    <script> !function (w, d, t) { w.TiktokAnalyticsObject = t; var ttq = w[t] = w[t] || []; ttq.methods = ["page", "track", "identify", "instances", "debug", "on", "off", "once", "ready", "alias", "group", "enableCookie", "disableCookie", "holdConsent", "revokeConsent", "grantConsent"], ttq.setAndDefer = function (t, e) { t[e] = function () { t.push([e].concat(Array.prototype.slice.call(arguments, 0))) } }; for (var i = 0; i < ttq.methods.length; i++)ttq.setAndDefer(ttq, ttq.methods[i]); ttq.instance = function (t) { for (var e = ttq._i[t] || [], n = 0; n < ttq.methods.length; n++)ttq.setAndDefer(e, ttq.methods[n]); return e }, ttq.load = function (e, n) { var r = "https://analytics.tiktok.com/i18n/pixel/events.js", o = n && n.partner; ttq._i = ttq._i || {}, ttq._i[e] = [], ttq._i[e]._u = r, ttq._t = ttq._t || {}, ttq._t[e] = +new Date, ttq._o = ttq._o || {}, ttq._o[e] = n || {}; n = document.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = r + "?sdkid=" + e + "&lib=" + t; e = document.getElementsByTagName("script")[0]; e.parentNode.insertBefore(n, e) }; ttq.load('CVPPLF3C77U7PSOUM9UG'); ttq.page(); }(window, document, 'ttq'); </script>
+    <meta charset="utf-8"> <noscript>
+        <style>
+            form.antibot * :not(.antibot-message) {
+                display: none !important;
+            }
+        </style>
+    </noscript>
+    <meta name="description"
+        content="Discover a Mental Health &amp; Wellbeing Space for insights on managing anxiety. Discover resources and support for individuals with epilepsy. Learn more here.">
+    <link rel="canonical"
+        href="https://www.youngepilepsy.org.uk/i-have-epilepsy/the-channel/mental-health-and-wellbeing/mental-health-wellbeing-space-anxiety">
+    <link rel="icon" href="/themes/custom/hc/assets/images/favicon.ico">
+    <link rel="icon" sizes="16x16" href="/themes/custom/hc/assets/images/favicon-16x16.png">
+    <link rel="icon" sizes="32x32" href="/themes/custom/hc/assets/images/favicon-32x32.png">
+    <link rel="icon" sizes="192x192" href="/themes/custom/hc/assets/images/android-chrome-192x192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/hc/assets/images/apple-touch-icon.png">
+    <meta property="og:site_name" content="Young Epilepsy">
+    <meta property="og:url"
+        content="https://www.youngepilepsy.org.uk/i-have-epilepsy/the-channel/mental-health-and-wellbeing/mental-health-wellbeing-space-anxiety">
+    <meta property="og:title" content="Mental health wellbeing space: Anxiety">
+    <meta property="og:description"
+        content="Anxiety is common emotion that many people experience, from mild to more severe forms. And it’s ok to feel anxious, especially during times of stress.">
+    <meta property="og:image"
+        content="https://www.youngepilepsy.org.uk/sites/default/files/styles/og_image/public/2024-10/1-1-.png?itok=bgGCkOG2">
+    <meta property="og:image:alt"
+        content="A symbol for the Channel's Wellbeing Space reads 'Anxiety' and depicts a cartoon brain with a lightning bolt.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:description"
+        content="Anxiety is common emotion that many people experience, from mild to more severe forms. And it’s ok to feel anxious, especially during times of stress.">
+    <meta name="twitter:title" content="Mental health wellbeing space: Anxiety">
+    <meta name="twitter:url"
+        content="https://www.youngepilepsy.org.uk/i-have-epilepsy/the-channel/mental-health-and-wellbeing/mental-health-wellbeing-space-anxiety">
+    <meta name="twitter:image"
+        content="https://www.youngepilepsy.org.uk/sites/default/files/styles/twitter_image/public/2024-10/1-1-.png?itok=H_me6f8z">
+    <meta name="twitter:image:alt"
+        content="A symbol for the Channel's Wellbeing Space reads 'Anxiety' and depicts a cartoon brain with a lightning bolt.">
+    <meta name="application-name" content="Young Epilepsy">
+    <meta name="msapplication-config" content="/themes/custom/hc/assets/images/browserconfig.xml">
+    <meta name="msapplication-square150x150logo" content="/themes/custom/hc/assets/images/mstile-150x150.png">
+    <meta name="Generator" content="Drupal 10 (https://www.drupal.org)">
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script data-cfasync="false" type="text/javascript"
+        id="vwoCode">window._vwo_code || (function () { var account_id = 857868, version = 2.1, settings_tolerance = 2000, hide_element = 'body', hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important', /* DO NOT EDIT BELOW THIS LINE */ f = false, w = window, d = document, v = d.querySelector('#vwoCode'), cK = '_vwo_' + account_id + '_settings', cc = {}; try { var c = JSON.parse(localStorage.getItem('_vwo_' + account_id + '_config')); cc = c && typeof c === 'object' ? c : {} } catch (e) { } var stT = cc.stT === 'session' ? w.sessionStorage : w.localStorage; code = { use_existing_jquery: function () { return typeof use_existing_jquery !== 'undefined' ? use_existing_jquery : undefined }, library_tolerance: function () { return typeof library_tolerance !== 'undefined' ? library_tolerance : undefined }, settings_tolerance: function () { return cc.sT || settings_tolerance }, hide_element_style: function () { return '{' + (cc.hES || hide_element_style) + '}' }, hide_element: function () { if (performance.getEntriesByName('first-contentful-paint')[0]) { return '' } return typeof cc.hE === 'string' ? cc.hE : hide_element }, getVersion: function () { return version }, finish: function (e) { if (!f) { f = true; var t = d.getElementById('_vis_opt_path_hides'); if (t) t.parentNode.removeChild(t); if (e) (new Image).src = 'https://dev.visualwebsiteoptimizer.com/ee.gif?a=' + account_id + e } }, finished: function () { return f }, addScript: function (e) { var t = d.createElement('script'); t.type = 'text/javascript'; if (e.src) { t.src = e.src } else { t.text = e.text } d.getElementsByTagName('head')[0].appendChild(t) }, load: function (e, t) { var i = this.getSettings(), n = d.createElement('script'), r = this; t = t || {}; if (i) { n.textContent = i; d.getElementsByTagName('head')[0].appendChild(n); if (!w.VWO || VWO.caE) { stT.removeItem(cK); r.load(e) } } else { var o = new XMLHttpRequest; o.open('GET', e, true); o.withCredentials = !t.dSC; o.responseType = t.responseType || 'text'; o.onload = function () { if (t.onloadCb) { return t.onloadCb(o, e) } if (o.status === 200) { _vwo_code.addScript({ text: o.responseText }) } else { _vwo_code.finish('&e=loading_failure:' + e) } }; o.onerror = function () { if (t.onerrorCb) { return t.onerrorCb(e) } _vwo_code.finish('&e=loading_failure:' + e) }; o.send() } }, getSettings: function () { try { var e = stT.getItem(cK); if (!e) { return } e = JSON.parse(e); if (Date.now() > e.e) { stT.removeItem(cK); return } return e.s } catch (e) { return } }, init: function () { if (d.URL.indexOf('__vwo_disable__') > -1) return; var e = this.settings_tolerance(); w._vwo_settings_timer = setTimeout(function () { _vwo_code.finish(); stT.removeItem(cK) }, e); var t; if (this.hide_element() !== 'body') { t = d.createElement('style'); var i = this.hide_element(), n = i ? i + this.hide_element_style() : '', r = d.getElementsByTagName('head')[0]; t.setAttribute('id', '_vis_opt_path_hides'); v && t.setAttribute('nonce', v.nonce); t.setAttribute('type', 'text/css'); if (t.styleSheet) t.styleSheet.cssText = n; else t.appendChild(d.createTextNode(n)); r.appendChild(t) } else { t = d.getElementsByTagName('head')[0]; var n = d.createElement('div'); n.style.cssText = 'z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;'; n.setAttribute('id', '_vis_opt_path_hides'); n.classList.add('_vis_hide_layer'); t.parentNode.insertBefore(n, t.nextSibling) } var o = 'https://dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&vn=' + version; if (w.location.search.indexOf('_vwo_xhr') !== -1) { this.addScript({ src: o }) } else { this.load(o + '&x=true') } } }; w._vwo_code = code; code.init(); })()</script>
+    <link rel="stylesheet" media="all"
+        href="https://harpreetslabs.github.io/webview/css_O7P2I7fHdVv9YvV9tyDRCj2ajHy4lG-_x8_PoiKkedQ.css">
+    <link rel="stylesheet" media="all"
+        href="https://harpreetslabs.github.io/webview/css_b2oV57hgl8jUtkGBXdCc_w8JQ1bw-YW3ubHlj5WjKmw.css">
+    <link rel="stylesheet" media="print"
+        href="https://harpreetslabs.github.io/webview/css_1VajRT-Ii4LJwU8iWrKJZ6GTlA1MLOFlhE5y8jivwgY.css">
+    <link rel="stylesheet" media="all"
+        href="https://harpreetslabs.github.io/webview/css_i_gQ7CT9kSEgJ-wiGxBVmB2UhjfQnJ9PBe4_PpISVkQ.css">
+    <style>
+        .checkbox-toggle-text,
+        .checkbox-toggle-on,
+        .checkbox-toggle-off,
+        .checkbox-toggle-toggle {
+            margin: 0;
+        }
+    </style>
+    <script> !function (f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) }; if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0; t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s) }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '2247541462220785'); fbq('track', 'PageView'); </script>
+    <script
+        type="text/javascript">(function () { function _vwo_err(e) { var vwo_e = new Image; vwo_e.src = "https://dev.visualwebsiteoptimizer.com/e.gif?a=857868&s=j.php&e=" + encodeURIComponent(e && e.message && e.message.substring(0, 1e3) + "&vn=") } try { var extE = 0; (function () { window._VWO = window._VWO || {}; var aC = window._vwo_code; if (typeof aC === 'undefined') { window._vwo_mt = 'dupCode'; return; } if (window._VWO.sCL) { window._vwo_mt = 'dupCode'; window._VWO.sCDD = true; try { if (aC) { clearTimeout(window._vwo_settings_timer); var h = document.querySelectorAll('#_vis_opt_path_hides'); var x = h[h.length > 1 ? 1 : 0]; x && x.remove(); } } catch (e) { } return; } window._VWO.sCL = true;; window._vwo_mt = "live"; var localPreviewObject = {}; var previewKey = "_vis_preview_" + 857868; var wL = window.location;; try { localPreviewObject[previewKey] = window.localStorage.getItem(previewKey); JSON.parse(localPreviewObject[previewKey]) } catch (e) { localPreviewObject[previewKey] = "" } try { window._vwo_tm = ""; var getMode = function (e) { var n; if (window.name.indexOf(e) > -1) { n = window.name } else { n = wL.search.match("_vwo_m=([^&]*)"); n = n && atob(decodeURIComponent(n[1])) } return n && JSON.parse(n) }; var ccMode = getMode("_vwo_cc"); if (window.name.indexOf("_vis_heatmap") > -1 || window.name.indexOf("_vis_editor") > -1 || ccMode || window.name.indexOf("_vis_preview") > -1) { try { if (ccMode) { window._vwo_mt = decodeURIComponent(wL.search.match("_vwo_m=([^&]*)")[1]) } else if (window.name && JSON.parse(window.name)) { window._vwo_mt = window.name } } catch (e) { if (window._vwo_tm) window._vwo_mt = window._vwo_tm } } else if (window._vwo_tm.length) { window._vwo_mt = window._vwo_tm } else if (location.href.indexOf("_vis_opt_preview_combination") !== -1 && location.href.indexOf("_vis_test_id") !== -1) { window._vwo_mt = "sharedPreview" } else if (localPreviewObject[previewKey]) { window._vwo_mt = JSON.stringify(localPreviewObject) } if (window._vwo_mt !== "live") { if (typeof extE !== "undefined") { extE = 1 } if (!getMode("_vwo_cc")) { _vwo_code.load('https://dev.visualwebsiteoptimizer.com/j.php?mode=' + encodeURIComponent(window._vwo_mt) + '&a=857868&f=1&u=' + encodeURIComponent(window._vis_opt_url || document.URL) + '&eventArch=true' + '&x=true', { sL: window._vwo_code.sL }); if (window._vwo_code.sL) { prevMode = true; } } else { (function () { window._vwo_code && window._vwo_code.finish(); _vwo_ccc = { u: "/j.php?a=857868&u=https%3A%2F%2Fwww.youngepilepsy.org.uk%2Fi-have-epilepsy%2Fthe-channel%2Fmental-health-and-wellbeing%2Fmental-health-wellbeing-space-anxiety&vn=2.1&x=true" }; var s = document.createElement("script"); s.src = "https://app.vwo.com/visitor-behavior-analysis/dist/codechecker/cc.min.js?r=" + Math.random(); document.head.appendChild(s) })() } } } catch (e) { var vwo_e = new Image; vwo_e.src = "https://dev.visualwebsiteoptimizer.com/ee.gif?s=mode_det&e=" + encodeURIComponent(e && e.stack && e.stack.substring(0, 1e3) + "&vn="); aC && window._vwo_code.finish() } })();; window._vwo_cookieDomain = "youngepilepsy.org.uk"; if (window._vwo_mt === "live") { window.VWO = window.VWO || []; window._vwo_acc_id = 857868; window.VWO._ = window.VWO._ || {};; const shouldSampleApm = false; if (shouldSampleApm) { VWO.load_co = function (a) { var b = document.createElement("script"); b.src = a; b.crossOrigin = "anonymous"; b.type = "text/javascript"; b.fetchPriority = "high"; b.innerText; b.onerror = function () { _vwo_code.finish() }; document.getElementsByTagName("head")[0].appendChild(b) }; setTimeout((function () { VWO.load_co("https://dev.visualwebsiteoptimizer.com/cdn/apmLib-7716d5be4a4d111d8af5b28be8ff864cbr.js") }), 0) } VWO._ = VWO._ || {}; var visMeta = VWO._.visMeta; VWO._.allSettings = function () { return { dataStore: { events: {} } } }(); window.VWO.visUuid = "D83E763B84F44DB2B37EEA9CC1A9CEBC0|709ae94f01d0715bf0e6c9c2af7d0a32";; _vwo_code.sT = _vwo_code.finished(); (function (c, a, e, d, b, z, g) { if (window.VWO._ && window.VWO._.isBot) return; const cookiePrefix = window._vwoCc && window._vwoCc.cookiePrefix || ""; function f(a, b, d) { var cookieName = cookiePrefix + a; e.cookie = cookieName + "=" + b + "; expires=" + new Date(864e5 * d + +new Date).toGMTString() + "; domain=" + g + "; path=/" } const escapedCookieName = (cookiePrefix + "_vwo_uuid_v2").replace(/([.*+?^${}()|[\]\\])/g, "\\$1"); const regex = new RegExp("(^|;\\s*)" + escapedCookieName + "=([^;]*)"); const match = e.cookie.match(regex); -1 == e.cookie.indexOf("_vis_opt_out") && -1 == d.location.href.indexOf("vwo_opt_out=1") && (a = match ? decodeURIComponent(match[2]) : a, a = a.split("|"), b = new Image, g = window._vis_opt_domain || c || d.location.hostname.replace(/^www\./, ""), b.src = "https://dev.visualwebsiteoptimizer.com/eu01/v.gif?cd=" + (window._vis_opt_cookieDays || 0) + "&a=857868&d=" + encodeURIComponent(d.location.hostname.replace(/^www\./, "") || c) + "&u=" + a[0] + "&h=" + a[1] + "&t=" + z, d.vwo_iehack_queue = [b], f("_vwo_uuid_v2", a.join("|"), 366)) })("youngepilepsy.org.uk", window.VWO.visUuid, document, window, 0, _vwo_code.sT);;; window.VWO = window.VWO || []; (function () { function l(e) { return e.replace(/[^\w\s-.][\w]/g, (function (e) { return e.toUpperCase() })).replace(/[^\w\s-.]/g, "").replace(/ [\w]/g, (function (e) { return e.toUpperCase() })).replace(/ /g, "") } function i(e, t) { if ("object" != typeof t || Array.isArray(t)) return s("Invalid attribute type: attribute can only be an object!"); var n, r, a, o = {}; for (n in t) if (Object.prototype.hasOwnProperty.call(t, n)) { var i = "props" === (i = (i = l((i = n).slice(i.search(/[\w-.]/g)))).replace(/^(_|vwo_|\.|v_|i_|-)*/g, "")) ? "" : i; if (!i.trim()) return s("Invalid attribute name: " + n + " is not allowed as an attribute name!"); 40 < i.length && (i = i.slice(0, 40), console.warn("Attribute name should not be greater than 40 characters!")); var c = u(t[n]) || (c = t[n], "[object Array]" === toString.call(c)) ? JSON.stringify(t[n]) : t[n]; v(e) || (a = 100, c = (r = c).length > a ? r.slice(0, a - 1) + "..." : r), o[i] = c } return o } function u(e) { return "[object Object]" === toString.call(e) } function s(e) { console.log("%cVWO Event API Error:", "font-weight:bold;", e), _vwo_err({ message: e }) } function c(e = -1, t = "") { switch (e) { case 0: return s("Event name cannot be empty!"); case 1: return console.warn("Event name should not be greater than 40 characters!"); case 2: return s("Invalid event name: " + t + " is not allowed as an event name!"); default: return s("Invalid event name: event name can only be a string!") } } function r(e, t, n) { var e = function (e, t) { if ("string" != typeof e) return c(); if (!(e = e.trim())) return c(0); var n = e; if (!(e = function (e) { return "visitors" === (e = (e = l(e.slice(e.search(/[\w-.]/g)))).replace(/^(_|vwo_|\.|v_|i_|-)*/g, "")).toLowerCase() && (e += "_1"), e }(e))) return c(2, n); 40 < e.length && (c(1), e = e.slice(0, 40)); n = i(e, t); if (n) return { eventName: e, filteredAttributeObject: n } }(e, t = t || {}), r = { ogName: 1, source: 1 }; if (!e) return { filteredData: void 0, cb: null }; t = null; if (u(n)) { "function" == typeof n.cb && (t = n.cb), delete n.cb; var a, o = {}; for (a in n) r[a] && (o[a] = n[a]); 0 < Object.keys(o).length && (e.filteredAttributeObject.vwoMeta = o) } return { filteredData: e, cb: t } } function v(e) { return window.VWO._ && VWO._.allSettings && VWO._.allSettings.dataStore && VWO._.allSettings.dataStore.events && VWO._.allSettings.dataStore.events[e] } VWO.event = function (e, t, n) { var { filteredData: e, cb: n } = r(e, t, n); if (e && function (e) { if (!window._vis_debug && !v(e)) { var t; try { t = JSON.parse(window.localStorage.getItem("vwoUnRegEvents")) || {} } catch (e) { t = {} } if (t[e]) return !1; t[e] = !0; e = JSON.stringify(t); window.localStorage.setItem("vwoUnRegEvents", e) } return !0 }(e.eventName)) return window._vis_debug ? void 0 : ((t = { d: { event: {} } }).d.event.props = e.filteredAttributeObject || {}, t.d.event.props.page = { title: document.title, url: window._vis_opt_url || window.location.href, referrerUrl: document.referrer }, t.d.event.name = e.eventName, t.d.event.time = Date.now(), e = "https://dev.visualwebsiteoptimizer.com/eu01/events/" + (v(e.eventName) ? "t" : "t/u") + "?en=" + e.eventName + "&a=" + 857868 + "&_cu=" + encodeURIComponent(document.URL), navigator.sendBeacon(e, JSON.stringify(t)), void ("function" == typeof n && n())) } })();; for (var e = 0; e < window.VWO.length; e++) { exC(window.VWO[e]) } window.VWO.push = function () { exC(arguments[0]) }; function exC(a) { if (!Array.isArray(a)) return; switch (a[0]) { case "onVWOLoaded": var p = []; p[0] = {}; p[1] = []; return a[1].call(this, p); case "onVWOCampaignsLoaded": return a[1].call(this, { bucketed_campaigns: [] }); case "event": return VWO.event(a[1], a[2], a[3]) } }; _vwo_code.finish() } } catch (e) { _vwo_code.finish(); _vwo_err(e); window.VWO.caE = 1 } })(); </script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=2247541462220785&ev=PageView&noscript=1" /></noscript>
+    <style id="fit-vids-style">
+        .fluid-width-video-wrapper {
+            width: 100%;
+            position: relative;
+            padding: 0;
+        }
+
+        .fluid-width-video-wrapper iframe,
+        .fluid-width-video-wrapper object,
+        .fluid-width-video-wrapper embed {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    <style>
+        .ccc-disable-scroll {
+            overflow-y: scroll;
+            position: fixed
+        }
+
+        #ccc {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.4em;
+            position: fixed;
+            z-index: 2147483647
+        }
+
+        #ccc-icon {
+            background: transparent;
+            border: 0;
+            bottom: 0;
+            cursor: pointer;
+            height: 80px;
+            padding: 0;
+            position: fixed;
+            width: 80px;
+            z-index: 20
+        }
+
+        #ccc-icon.ccc-icon--left {
+            left: 0
+        }
+
+        #ccc-icon.ccc-icon--right {
+            right: 0
+        }
+
+        #ccc-icon.ccc-icon--dark {
+            fill: #000025
+        }
+
+        #ccc-icon.ccc-icon--dark #star path {
+            fill: #fff
+        }
+
+        #ccc-icon.ccc-icon--light {
+            fill: #555
+        }
+
+        #ccc-icon.ccc-icon--light #star path {
+            fill: #f4f4f4
+        }
+
+        #ccc-overlay {
+            animation-duration: .4s;
+            animation-iteration-count: 1;
+            animation-name: fade-in;
+            backface-visibility: hidden;
+            background: rgba(0, 0, 0, .4);
+            bottom: 0;
+            left: 0;
+            opacity: 1;
+            perspective: 0;
+            position: fixed;
+            right: 0;
+            top: 0;
+            will-change: opacity;
+            z-index: 1
+        }
+
+        #ccc-module {
+            height: 100%;
+            position: fixed;
+            width: 100%;
+            z-index: 2
+        }
+
+        #ccc-module.ccc-module--slideout {
+            bottom: 0;
+            max-width: 520px;
+            top: 0;
+            width: 90%
+        }
+
+        #ccc-module.ccc-module--slideout.ccc-module--left {
+            animation-duration: .4s;
+            animation-iteration-count: 1;
+            animation-name: slide-right;
+            left: 0
+        }
+
+        #ccc-module.ccc-module--slideout.ccc-module--right {
+            animation-duration: .4s;
+            animation-iteration-count: 1;
+            animation-name: slide-left;
+            right: 0
+        }
+
+        #ccc-content {
+            box-sizing: border-box;
+            height: 100%;
+            overflow-y: auto;
+            padding: 24px;
+            position: absolute;
+            width: 100%
+        }
+
+        .ccc-content--dark {
+            fill: #fff;
+            background-color: #313147;
+            color: #fff
+        }
+
+        .ccc-content--light {
+            fill: #333;
+            background-color: #f4f4f4;
+            color: #333
+        }
+
+        #ccc-close {
+            align-items: center;
+            background-color: transparent;
+            border: 0;
+            cursor: pointer;
+            display: flex;
+            padding: 0 !important;
+            position: absolute;
+            right: 16px;
+            top: 16px;
+            z-index: 10
+        }
+
+        #ccc-title,
+        .ccc-title {
+            font-size: 1.2em;
+            font-weight: 700;
+            line-height: 1.5em;
+            margin: 0;
+            padding-right: 32px;
+            text-align: left
+        }
+
+        #ccc #ccc-recommended-settings {
+            clear: both;
+            float: none;
+            margin-left: 0
+        }
+
+        #ccc h2,
+        #ccc h3 {
+            font-weight: 700;
+            margin: 0;
+            padding-right: 120px
+        }
+
+        #ccc h2,
+        #ccc h3,
+        #ccc p,
+        .ccc-intro {
+            font-size: 1em;
+            line-height: 1.5em;
+            text-align: left
+        }
+
+        #ccc p,
+        .ccc-intro {
+            font-weight: 400;
+            margin: 1em 0
+        }
+
+        #ccc hr {
+            border: 0;
+            height: 1px;
+            margin: 24px 0;
+            opacity: .25
+        }
+
+        #ccc .ccc-svg-element {
+            display: inline-block;
+            height: 16px;
+            margin-left: 8px;
+            position: relative;
+            top: 6px;
+            width: 16px
+        }
+
+        #ccc .ccc-content--dark hr {
+            background-color: #fff
+        }
+
+        #ccc .ccc-content--dark a,
+        #ccc .ccc-content--dark h1,
+        #ccc .ccc-content--dark h2,
+        #ccc .ccc-content--dark h3,
+        #ccc .ccc-content--dark p,
+        #ccc .ccc-content--dark span {
+            fill: #fff;
+            color: #fff
+        }
+
+        #ccc .ccc-content--light hr {
+            background-color: #333
+        }
+
+        #ccc .ccc-content--light a,
+        #ccc .ccc-content--light h1,
+        #ccc .ccc-content--light h2,
+        #ccc .ccc-content--light h3,
+        #ccc .ccc-content--light p,
+        #ccc .ccc-content--light span {
+            fill: #333;
+            color: #333
+        }
+
+        #ccc .optional-cookie {
+            position: relative
+        }
+
+        .checkbox-toggle {
+            margin: 0;
+            position: absolute;
+            right: 0;
+            top: -3px
+        }
+
+        #ccc .checkbox-toggle-input {
+            bottom: 0;
+            display: block;
+            height: 100%;
+            left: 0;
+            margin: 0;
+            opacity: 0;
+            padding: 0;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 100%;
+            z-index: 1
+        }
+
+        #ccc .checkbox-toggle--checkbox {
+            border: 2px solid #fff;
+            border-radius: 4px
+        }
+
+        #ccc .checkbox-toggle--checkbox .checkbox-toggle-label {
+            display: block;
+            height: 24px;
+            width: 24px
+        }
+
+        #ccc .checkbox-toggle--checkbox .checkbox-toggle-off,
+        #ccc .checkbox-toggle--checkbox .checkbox-toggle-on {
+            display: none
+        }
+
+        #ccc .checkbox-toggle--checkbox .checkbox-toggle-toggle {
+            border-radius: 4px;
+            display: block;
+            height: 100%;
+            position: relative;
+            width: 100%
+        }
+
+        #ccc .checkbox-toggle--checkbox input:checked~.checkbox-toggle-toggle:after {
+            border: solid #fff;
+            border-width: 0 3px 3px 0;
+            content: "";
+            height: 10px;
+            left: 9px;
+            position: absolute;
+            top: 5px;
+            transform: rotate(45deg);
+            width: 5px
+        }
+
+        #ccc .checkbox-toggle--slider {
+            border: 4px solid #fff;
+            border-radius: 50px
+        }
+
+        #ccc .checkbox-toggle--slider .checkbox-toggle-label {
+            cursor: pointer;
+            display: flex;
+            margin: 0;
+            z-index: 1
+        }
+
+        #ccc .checkbox-toggle--slider .checkbox-toggle-off,
+        #ccc .checkbox-toggle--slider .checkbox-toggle-on {
+            flex: 1;
+            flex-basis: 50%;
+            font-size: .75em;
+            font-weight: 700;
+            min-width: 40px;
+            padding: 0 6px;
+            text-align: center;
+            white-space: nowrap;
+            width: 50%;
+            z-index: 2
+        }
+
+        #ccc .checkbox-toggle--slider .checkbox-toggle-off {
+            opacity: .65
+        }
+
+        #ccc .checkbox-toggle--slider .checkbox-toggle-toggle {
+            background-color: #000;
+            border-radius: 50px;
+            cursor: pointer;
+            display: block;
+            height: 100%;
+            left: 0;
+            position: absolute;
+            top: 0;
+            transition: all .4s ease;
+            width: 50%;
+            z-index: 3
+        }
+
+        #ccc .checkbox-toggle--slider input:checked~.checkbox-toggle-toggle {
+            left: 50%
+        }
+
+        #ccc .checkbox-toggle--slider.checkbox-toggle--dark {
+            background-color: #111125;
+            border-color: #111125
+        }
+
+        #ccc .checkbox-toggle--checkbox.checkbox-toggle--dark {
+            background-color: #111125;
+            border-color: #fff
+        }
+
+        #ccc .checkbox-toggle--dark .checkbox-toggle-toggle {
+            background-color: #2f2f5f
+        }
+
+        #ccc .checkbox-toggle--light {
+            background-color: #555;
+            border-color: #555
+        }
+
+        #ccc .checkbox-toggle--light .checkbox-toggle-toggle {
+            background-color: #000
+        }
+
+        #ccc .checkbox-toggle--light .checkbox-toggle-on,
+        #ccc .checkbox-toggle--slider.checkbox-toggle--light .checkbox-toggle-off {
+            color: #fff
+        }
+
+        #ccc .checkbox-toggle--slider input:checked~.checkbox-toggle-toggle {
+            background-color: #fff
+        }
+
+        #ccc .ccc-alert {
+            border-radius: 8px;
+            margin: 24px 0;
+            padding: 16px
+        }
+
+        #ccc .ccc-alert-title {
+            align-items: center;
+            display: flex;
+            padding: 0
+        }
+
+        #ccc .ccc-alert-icon {
+            display: inline-block;
+            flex-shrink: 0;
+            height: 30px;
+            margin: 0 8px 0 0;
+            width: 30px
+        }
+
+        #ccc .ccc-alert-break {
+            margin: 12px 0
+        }
+
+        .third-party-cookie-link {
+            align-items: center;
+            display: flex;
+            margin: 16px 0
+        }
+
+        .third-party-cookie-name {
+            font-size: 1em;
+            font-weight: 700
+        }
+
+        .third-party-cookie-icon {
+            display: inline-block;
+            height: 16px;
+            margin-left: 16px;
+            width: 16px
+        }
+
+        #ccc .ccc-content--dark .ccc-alert {
+            fill: #fff;
+            background: #111125;
+            color: #fff
+        }
+
+        #ccc .ccc-content--dark .third-party-cookie-link {
+            background: #111125;
+            color: #fff
+        }
+
+        #ccc .ccc-content--light .ccc-alert,
+        #ccc .ccc-content--light .third-party-cookie-link {
+            background: #eaeaea
+        }
+
+        #ccc .ccc-module--popup {
+            animation-duration: .4s;
+            animation-iteration-count: 1;
+            animation-name: slide-up;
+            bottom: 0;
+            left: 0;
+            opacity: 1;
+            right: 0;
+            top: 0
+        }
+
+        #ccc .ccc-module--popup #ccc-content {
+            border-radius: 12px;
+            height: 90%;
+            left: 50%;
+            max-height: 600px;
+            max-width: 600px;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            width: 90%
+        }
+
+        #ccc .ccc-notify-box-dismiss {
+            display: none !important
+        }
+
+        @media (min-width:600px) {
+            #ccc #ccc-notify.ccc-notify__box {
+                animation-duration: .8s;
+                animation-iteration-count: 1;
+                animation-name: box-slide-up;
+                border-radius: 12px;
+                box-sizing: border-box;
+                flex-direction: column;
+                height: 90%;
+                left: 50%;
+                max-height: 240px;
+                max-width: 600px;
+                opacity: 1;
+                padding: 32px 64px;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                width: 90%
+            }
+
+            #ccc .ccc-notify-box-dismiss {
+                display: block !important;
+                position: absolute !important;
+                right: 16px !important;
+                top: 16px !important
+            }
+        }
+
+        #ccc #ccc-notify {
+            animation-duration: .4s;
+            animation-iteration-count: 1;
+            animation-name: slide-up;
+            border-radius: 0;
+            bottom: 0;
+            display: flex;
+            flex-direction: column;
+            height: auto;
+            justify-content: space-between;
+            left: 0;
+            margin: 0;
+            max-height: 80vh;
+            min-height: 48px;
+            opacity: 1;
+            overflow: hidden;
+            overflow-y: auto;
+            padding: 16px;
+            position: fixed;
+            right: 0;
+            z-index: 30
+        }
+
+        .ccc-notify-text h1 {
+            font-size: 1em;
+            font-weight: 700;
+            line-height: 1.5em;
+            margin: 0;
+            padding-right: 120px;
+            text-align: left
+        }
+
+        #ccc #ccc-notify.ccc-notify__top {
+            animation-duration: .4s;
+            animation-iteration-count: 1;
+            animation-name: slide-down;
+            bottom: auto;
+            top: 0
+        }
+
+        #ccc #ccc-notify h3 {
+            padding: 0
+        }
+
+        #ccc #ccc-notify p {
+            font-size: .9em;
+            margin: 0;
+            opacity: .8
+        }
+
+        #ccc .ccc-notify-buttons {
+            margin-top: 16px;
+            padding-right: 24px;
+            position: relative
+        }
+
+        #ccc .ccc-notify-button {
+            background: transparent;
+            border: 2px solid;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 400;
+            line-height: 1.5em;
+            margin: 4px 8px 16px 0;
+            padding: 8px 16px !important
+        }
+
+        #ccc #ccc-notify-dismiss {
+            background-color: transparent;
+            border: 0;
+            cursor: pointer;
+            display: inline-flex;
+            height: 24px;
+            padding: 0 !important;
+            position: absolute;
+            right: 0;
+            top: -4px;
+            width: 24px
+        }
+
+        @media (min-width:400px) {
+            #ccc #ccc-notify-dismiss {
+                position: relative;
+                right: auto
+            }
+
+            #ccc .ccc-notify-buttons {
+                padding-right: 0
+            }
+        }
+
+        @media (min-width:1020px) {
+            #ccc #ccc-notify {
+                align-items: center;
+                flex-direction: row
+            }
+
+            #ccc .ccc-notify-text {
+                margin-right: 16px
+            }
+
+            #ccc .ccc-notify-buttons {
+                flex-shrink: 0;
+                white-space: nowrap
+            }
+        }
+
+        @media (min-width:1200px) {
+            #ccc #ccc-notify {
+                font-size: 16px;
+                padding: 16px 100px;
+                z-index: 10
+            }
+        }
+
+        #ccc .ccc-content--dark #ccc-notify,
+        #ccc .ccc-content--dark #ccc-notify span {
+            fill: #fff;
+            background-color: #313147;
+            color: #fff
+        }
+
+        #ccc .ccc-content--dark .ccc-notify-button,
+        #ccc .ccc-content--dark .ccc-notify-button span {
+            border-color: #fff;
+            color: #fff
+        }
+
+        #ccc .ccc-content--dark .ccc-button-solid,
+        #ccc .ccc-content--dark .ccc-button-solid span {
+            background: #fff;
+            color: #111125;
+            font-weight: 700
+        }
+
+        .ccc-notify-link {
+            border: 0 !important;
+            text-decoration: underline
+        }
+
+        #ccc .ccc-content--light #ccc-notify,
+        #ccc .ccc-content--light #ccc-notify span {
+            fill: #000;
+            background: #f4f4f4;
+            color: #000
+        }
+
+        #ccc .ccc-content--light .ccc-notify-button,
+        #ccc .ccc-content--light .ccc-notify-button span {
+            border-color: #000;
+            color: #000
+        }
+
+        #ccc .ccc-content--light .ccc-button-solid,
+        #ccc .ccc-content--light .ccc-button-solid span {
+            background: #000;
+            color: #fff;
+            font-weight: 700
+        }
+
+        .ccc-info-link {
+            font-size: .8em;
+            font-weight: 700;
+            text-decoration: none
+        }
+
+        .ccc-info-link .svg-element {
+            height: 14px;
+            margin-left: 6px;
+            width: 14px
+        }
+
+        #ccc .ccc-module--slideout .ccc-info {
+            height: 100px
+        }
+
+        #ccc[popup] .ccc-info {
+            height: 40px
+        }
+
+        @media print {
+            #ccc {
+                display: none !important
+            }
+        }
+
+        #ccc-close-label {
+            display: block;
+            font-size: 16px
+        }
+
+        #ccc .ccc-panel--indent #ccc-title {
+            padding-right: 180px
+        }
+
+        #ccc-close.ccc-close--labelled {
+            padding: 8px !important;
+            right: 0;
+            top: 0
+        }
+
+        #ccc-content.ccc-content--light #ccc-close.ccc-close--labelled {
+            background-color: #eaeaea
+        }
+
+        #ccc-content.ccc-content--dark #ccc-close.ccc-close--labelled {
+            background-color: #111125
+        }
+
+        #ccc-end {
+            margin: 16px 0 32px
+        }
+
+        #ccc-dismiss-button {
+            display: block
+        }
+
+        #ccc .ccc-content--highlight .ccc-link.ccc-tabbable:focus {
+            filter: invert(100%);
+            padding: 8px
+        }
+
+        #ccc .ccc-content--highlight.ccc-content--light .ccc-link.ccc-tabbable:focus {
+            background-color: #eaeaea !important;
+            border-color: #eaeaea !important
+        }
+
+        #ccc .ccc-content--highlight.ccc-content--dark .ccc-link.ccc-tabbable:focus {
+            background-color: #111125 !important;
+            border-color: #111125 !important
+        }
+
+        #ccc .ccc-content--highlight #ccc-close:focus,
+        #ccc .ccc-content--highlight .ccc-button-solid:focus,
+        #ccc .ccc-content--highlight .third-party-cookie-link:focus {
+            filter: invert(100%)
+        }
+
+        #ccc .ccc-content--highlight.ccc-content--light .ccc-tabbable:focus {
+            box-shadow: 0 4px 8px 0 hsla(0, 0%, 100%, .2), 0 6px 20px 0 hsla(0, 0%, 100%, .2)
+        }
+
+        #ccc .ccc-content--highlight.ccc-content--dark .ccc-tabbable:focus {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .2)
+        }
+
+        #ccc .checkbox-toggle:focus-within {
+            outline: auto
+        }
+
+        #ccc .checkbox-toggle--slider.checkbox-toggle--light:focus-within {
+            box-shadow: 0 0 0 4px rgba(0, 0, 0, .8);
+            outline: 3px solid #f2ab3d
+        }
+
+        #ccc #ccc-icon.ccc-icon--no-outline,
+        #ccc .ccc-content--no-outline *,
+        #ccc .ccc-content--no-outline .ccc-tabbable {
+            outline: none
+        }
+
+        #ccc .ccc-content--highlight .ccc-tabbable:active,
+        #ccc .ccc-content--highlight .ccc-tabbable:hover,
+        #ccc .ccc-icon--highlight:active,
+        #ccc .ccc-icon--highlight:hover {
+            box-shadow: none !important;
+            filter: none !important
+        }
+
+        .ccc-panel {
+            left: 24px;
+            position: absolute;
+            right: 24px;
+            top: 24px
+        }
+
+        .ccc-panel.hidden {
+            height: 0;
+            opacity: 0;
+            overflow: hidden
+        }
+
+        .ccc-panel.visible {
+            height: auto;
+            opacity: 1;
+            transition: opacity .4s
+        }
+
+        #ccc .iab-vendor,
+        #ccc .optional-vendor {
+            margin: 0 0 8px
+        }
+
+        #ccc .optional-vendor {
+            font-size: .875em
+        }
+
+        #ccc .optional-vendor-heading {
+            font-weight: 700;
+            padding-left: 24px;
+            text-decoration: underline
+        }
+
+        #ccc .ccc-vendor-reveal {
+            align-items: center;
+            background: transparent;
+            border: 1px dotted;
+            display: flex;
+            font-size: .875em;
+            opacity: .5;
+            transition: opacity .4s
+        }
+
+        #ccc .ccc-vendor-reveal:focus,
+        #ccc .ccc-vendor-reveal:hover {
+            opacity: 1
+        }
+
+        #ccc .ccc-legal-description {
+            margin-top: 1rem
+        }
+
+        #ccc .ccc-vendor-reveal svg {
+            height: 16px;
+            margin-left: 8px;
+            width: 16px
+        }
+
+        #ccc .optional-vendor-warning {
+            align-items: center;
+            display: flex
+        }
+
+        #ccc .optional-vendor-warning svg {
+            height: 16px;
+            margin-right: 8px;
+            width: 16px
+        }
+
+        #ccc .optional-vendor-content {
+            padding-left: 24px
+        }
+
+        #ccc .iab-vendor-heading {
+            font-size: .875em;
+            font-weight: 400;
+            text-decoration: underline
+        }
+
+        #ccc .cmp-button-holder {
+            display: flex;
+            font-size: .75em;
+            justify-content: space-between
+        }
+
+        #ccc .cmp-back {
+            opacity: .5;
+            transition: opacity .4s
+        }
+
+        #ccc .cmp-back:hover {
+            opacity: 1
+        }
+
+        .ccc-sr-only {
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute;
+            width: 1px
+        }
+
+        @keyframes fade-in {
+            0% {
+                opacity: 0
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes slide-right {
+            0% {
+                transform: translate3d(-100%, 0, 0)
+            }
+
+            to {
+                transform: translateZ(0)
+            }
+        }
+
+        @keyframes slide-left {
+            0% {
+                transform: translate3d(100%, 0, 0)
+            }
+
+            to {
+                transform: translateZ(0)
+            }
+        }
+
+        @keyframes slide-up {
+            0% {
+                transform: translate3d(0, 100%, 0)
+            }
+
+            to {
+                transform: translateZ(0)
+            }
+        }
+
+        @keyframes box-slide-up {
+            0% {
+                transform: translate3d(-50%, 100%, 0)
+            }
+
+            to {
+                transform: translate3d(-50%, -50%, 0)
+            }
+        }
+
+        @keyframes slide-down {
+            0% {
+                transform: translate3d(0, -100%, 0)
+            }
+
+            to {
+                transform: translateZ(0)
+            }
+        }
+
+        #ccc .iab-object {
+            height: 48px;
+            position: relative;
+            width: 98%
+        }
+
+        #ccc .iab-object.iab-object--vendor {
+            width: 85%
+        }
+
+        #ccc .iab-object .checkbox-toggle {
+            left: 0;
+            right: auto;
+            top: 4px
+        }
+
+        #ccc .iab-object .checkbox-toggle-label {
+            height: 18px;
+            width: 18px
+        }
+
+        #ccc .iab-object .checkbox-toggle--checkbox input:checked~.checkbox-toggle-toggle:after {
+            border-width: 0 2px 2px 0;
+            height: 8px;
+            left: 7px;
+            top: 3px;
+            width: 3px
+        }
+
+        #ccc .iab-object-label {
+            display: block;
+            font-size: .75em;
+            margin-left: 32px
+        }
+
+        #ccc .vendor-details {
+            font-size: .75rem;
+            margin-bottom: 16px
+        }
+
+        #ccc .vendor-details h4 {
+            margin: .5rem 0
+        }
+
+        #ccc .ccc-title.ccc-title--iab {
+            margin-bottom: 1rem
+        }
+
+        #ccc .iab-header-toggle {
+            align-items: center;
+            display: flex;
+            margin-bottom: 1rem
+        }
+
+        #ccc .iab-header-toggle .ccc-title {
+            margin: 0 0 0 16px
+        }
+
+        #ccc .iab-header-toggle .ccc-vendor-reveal svg {
+            margin: 0
+        }
+
+        #ccc .iab-vendor-toggle .checkbox-toggle {
+            top: auto
+        }
+
+        #ccc .iab-vendor-toggle h3 {
+            padding-right: 180px
+        }
+
+        #ccc .iab-disclosure-load {
+            align-items: center;
+            display: flex
+        }
+
+        #ccc .iab-disclosure-load button {
+            margin-right: 12px
+        }
+
+        #ccc .iab-disclosure-load a {
+            text-decoration: none
+        }
+
+        #ccc .iab-disclosure-load a>span {
+            position: relative;
+            top: -2px
+        }
+
+        #ccc .iab-disclosure-load a>.ccc-svg-element {
+            top: 4px
+        }
+
+        #ccc .iab-disclosure-table {
+            border-collapse: collapse;
+            margin: 2em 0;
+            width: 100%
+        }
+
+        #ccc .iab-disclosure-table td,
+        #ccc .iab-disclosure-table th {
+            border: 1px solid
+        }
+
+        #ccc .iab-disclosure-table thead td {
+            border: none
+        }
+
+        #ccc .ccc-content--dark td,
+        #ccc .ccc-content--dark th {
+            border-color: #fff
+        }
+
+        #ccc .iab-disclosure-table dl {
+            display: grid;
+            grid-template: auto;
+            width: 150px
+        }
+
+        #ccc .iab-disclosure-table ul {
+            list-style: none
+        }
+
+        #ccc .iab-disclosure-table dl,
+        #ccc .iab-disclosure-table ul {
+            margin: 0;
+            padding: 0
+        }
+
+        #ccc .iab-disclosure-table dd,
+        #ccc .iab-disclosure-table dt,
+        #ccc .iab-disclosure-table li {
+            border-bottom: 1px solid rgba(0, 0, 0, .1);
+            margin: 0;
+            padding: .3em .5em
+        }
+
+        #ccc .iab-disclosure-table dd {
+            padding-left: 20px
+        }
+
+        #ccc .ccc-content--dark .iab-disclosure-table dd,
+        #ccc .ccc-content--dark .iab-disclosure-table dt,
+        #ccc .ccc-content--dark .iab-disclosure-table li {
+            border-bottom: 1px solid hsla(0, 0%, 100%, .1)
+        }
+
+        #ccc .ccc-content--dark .iab-disclosure-table li:last-child {
+            border: none
+        }
+
+        #ccc .iab-disclosure-table td,
+        #ccc .iab-disclosure-table th {
+            padding: 1em;
+            vertical-align: top
+        }
+
+        #ccc .iab-disclosure-table tr:nth-child(2n) {
+            background: rgba(0, 0, 0, .1)
+        }
+
+        #ccc .ccc-content--highlight .ccc-tabbable:hover {
+            outline: auto
+        }
+
+        #ccc h1,
+        h2,
+        h3 {
+            font-style: normal
+        }
+
+        #ccc .iab-illustrations {
+            display: block;
+            font-size: 90%;
+            margin: 0 0 0 1rem;
+            opacity: .95;
+            padding: 0
+        }
+
+        #ccc .iab-illustrations li {
+            padding: 1rem
+        }
+
+        #ccc .ccc-vendor-count {
+            font-size: .8rem;
+            font-weight: 400;
+            opacity: .8
+        }
+    </style>
+</head>
+
+<body class="path-node node_section node page-node-type-pagebuilder page-builder the-channel under_construction_base"
+    style="height: 100%;"> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCHH9B5" height="0"
+            width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+        <main id="main" role="main" class="main clearfix" style="margin-top: 0px; padding-bottom: 0px;"> <a
+                id="main-content" tabindex="-1"></a>
+            <section class="hero-outer full page-builder-hero text-box-left script-title section">
+                <div class="hero no-image"
+                    style="background-image:url('/themes/custom/hc/assets//images/pagebuilder-bg-img.svg')">
+                    <header class="hero-info">
+                        <div class="hero-inner">
+                            <h1 class="hero-title" id="hero-text" data-message="Anxiety" aria-hidden="true"><span
+                                    class="visually-hidden">Anxiety</span>Anxiety</h1>
+                            <div class="hero-summary">
+                                <p> </p>
+                                <p><strong>Are you struggling with anxiety?&nbsp;</strong></p>
+                                <p>Epilepsy and anxiety go hand-in-hand.&nbsp; This section of the Mental health and
+                                    Wellbeing Space will help you understand why, and offer techniques which might help.
+                                </p>
+                                <p></p>
+                            </div>
+                        </div>
+                    </header>
+                </div>
+            </section>
+            <div data-drupal-messages-fallback="" class="hidden"></div>
+            <div class="main-section " id="content">
+                <div class="container">
+                    <article class="article" style="border: none;">
+                        <section class="arrow-sep-outer section" data-scroll-effect="arrowFade"
+                            data-scroll-effect-speed="7000" style="padding-bottom: 0px !important;">
+                            <section class="arrow-sep-outer section" data-scroll-effect="arrowFade"
+                                data-scroll-effect-speed="3000">
+                                <div class="container"> <span class="arrow-sep-arrow"></span> <span
+                                        class="arrow-sep-line"></span> <span
+                                        class="arrow-sep-arrow animate-on-view animate"></span> <span
+                                        class="arrow-sep-line animate-on-view animate"></span> </div>
+                            </section>
+                            <script> document.addEventListener('DOMContentLoaded', function () { const observer = new IntersectionObserver((entries) => { entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('animate'); } else { entry.target.classList.remove('animate'); } }); }); document.querySelectorAll('.animate-on-view').forEach(element => { observer.observe(element); }); }); </script>
+                            <div class="content" id="What-is-anxiety">
+                                <h2 class="heading-script"><strong>So, what is anxiety?</strong></h2>
+                            </div>
+                            <div class="media-block" id="">
+                                <figure class="media-block-element"> <a
+                                        href="https://www.youtube.com/watch?v=vrBNbuv9PZY"
+                                        class="media-block-element-play popup-video"> <svg aria-hidden="true"
+                                            class="icon">
+                                            <use xlink:href="/themes/custom/hc/assets//svg/icons.svg#play"></use>
+                                        </svg> <span class="visually-hidden">Play video</span> </a>
+                                    <picture>
+                                        <source
+                                            srcset="/sites/default/files/styles/media_block_inline_large/public/2023-04/Still%2009_0.png.webp?itok=HwZnhxB9 1x"
+                                            media="all and (min-width: 1700px)" type="image/webp" width="800"
+                                            height="450">
+                                        <source
+                                            srcset="/sites/default/files/styles/media_block_inline_large/public/2023-04/Still%2009_0.png.webp?itok=HwZnhxB9 1x"
+                                            media="all and (min-width: 1440px)" type="image/webp" width="800"
+                                            height="450">
+                                        <source
+                                            srcset="/sites/default/files/styles/media_block_inline_large/public/2023-04/Still%2009_0.png.webp?itok=HwZnhxB9 1x"
+                                            media="all and (min-width: 1280px)" type="image/webp" width="800"
+                                            height="450">
+                                        <source
+                                            srcset="/sites/default/files/styles/media_block_inline_large/public/2023-04/Still%2009_0.png.webp?itok=HwZnhxB9 1x"
+                                            media="all and (min-width: 960px)" type="image/webp" width="800"
+                                            height="450">
+                                        <source
+                                            srcset="/sites/default/files/styles/media_block_inline_large/public/2023-04/Still%2009_0.png.webp?itok=HwZnhxB9 1x"
+                                            media="all and (min-width: 700px)" type="image/webp" width="800"
+                                            height="450">
+                                        <source
+                                            srcset="/sites/default/files/styles/media_block_inline_small/public/2023-04/Still%2009_0.png.webp?itok=k2LxA4R2 1x"
+                                            media="all and (min-width: 560px)" type="image/webp" width="400"
+                                            height="225"> <img loading="lazy"
+                                            src="/sites/default/files/styles/media_block_inline_small/public/2023-04/Still%2009_0.png.webp?itok=k2LxA4R2"
+                                            width="400" height="225" alt="One of our Young Reps looking serious">
+                                    </picture>
+                                </figure>
+                                <div class="media-block-info">
+                                    <div class="media-block-content"> </div>
+                                </div>
+                            </div>
+                        </section>
+                    </article>
+                </div>
+            </div>
+            <div class="components" style="border: none;">
+                <div class="container">
+                    <section class="wysiwyg section">
+                        <div class="container">
+                            <div class="content" id="">
+                                <p class="page-intro">For lots of people it’s extreme worry, nervousness or a fear of
+                                    losing control. For others it can cause unease and panic.</p>
+                                <p>Anxiety is a common emotion that many people experience, from mild to more severe
+                                    forms. And it’s ok to feel anxious, especially during times of stress. Anxiety can
+                                    motivate us: it’s not always a negative emotion. But it affects everyone
+                                    differently, and sometimes anxiety can become more intense or all consuming, which
+                                    can really impact on your mental health and wellbeing. What’s important is how you
+                                    manage your anxiety, and that you find the best coping mechanisms to suit you.</p>
+                                <h2><strong>How does it affect people with epilepsy?</strong></h2>
+                                <p>Seizures and anxiety often go hand in hand. The fear of having a seizure, not knowing
+                                    where or when it could happen can make you feel anxious. An epilepsy diagnosis can
+                                    also cause anxiety, so can&nbsp;feeling excluded from doing the things you enjoy
+                                    because of your epilepsy. Anxiety can also be a side effect of some ASMs
+                                    (anti-seizure medications). It’s a natural human emotion so be kind to yourself if
+                                    you’re anxious and remember you’re not alone. Since Covid-19, 1 in 6 people have
+                                    experienced some form of anxiety, without living with epilepsy too.</p>
+                                <p>Anxiety can cause panic attacks and the symptoms are very similar to some seizures,
+                                    lasting between 5-20 minutes. Knowing the symptoms of anxiety could reduce their
+                                    impact and your stress levels. These include:</p>
+                                <ul>
+                                    <li>Intense feelings of nervousness</li>
+                                    <li>Sweating</li>
+                                    <li>Fast heartbeat</li>
+                                    <li>Hyperventilation (breathing too fast and too deep)</li>
+                                    <li>Flushing of the skin</li>
+                                    <li>Feeling sick</li>
+                                    <li>Dizziness</li>
+                                    <li>Stomach pains</li>
+                                    <li>Muscle pains and tension</li>
+                                    <li>Dry mouth</li>
+                                    <li>Disturbed sleep</li>
+                                    <li>Tiredness</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <section class="arrow-sep-outer section" data-scroll-effect="arrowFade" data-scroll-effect-speed="7000"
+                    style="padding-bottom: 0px !important;">
+                    <section class="arrow-sep-outer section" data-scroll-effect="arrowFade"
+                        data-scroll-effect-speed="3000">
+                        <div class="container"> <span class="arrow-sep-arrow"></span> <span
+                                class="arrow-sep-line"></span> <span class="arrow-sep-arrow animate-on-view"></span>
+                            <span class="arrow-sep-line animate-on-view"></span> </div>
+                    </section>
+                    <script> document.addEventListener('DOMContentLoaded', function () { const observer = new IntersectionObserver((entries) => { entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('animate'); } else { entry.target.classList.remove('animate'); } }); }); document.querySelectorAll('.animate-on-view').forEach(element => { observer.observe(element); }); }); </script>
+                    <div class="container">
+                        <section class="wysiwyg section">
+                            <div class="container">
+                                <div class="content" id="">
+                                    <h2><strong>You are not alone</strong></h2>
+                                    <p>Other young people with epilepsy describe the impact on their mental well being
+                                        as:</p>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <section class="pullquote-outer section">
+                        <div class="container">
+                            <div class="pullquote no-image" id="">
+                                <div class="pullquote-info">
+                                    <blockquote>I’m]&nbsp;constantly anxious&nbsp;about when and how bad my&nbsp;next
+                                        seizure&nbsp;will be.</blockquote> <cite> Young person with epilepsy </cite>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="pullquote-outer section">
+                        <div class="container">
+                            <div class="pullquote no-image" id="">
+                                <div class="pullquote-info">
+                                    <blockquote>I was&nbsp;scared to go out&nbsp;by myself for a good year and a half…
+                                        my epilepsy has caused so much anxiety.</blockquote> <cite> Young person with
+                                        epilepsy </cite>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="statistic-outer dark section">
+                        <header class="section-header container">
+                            <div class="content-wrapper">
+                                <h2 class="section-header-title">You told us</h2>
+                                <p class="section-header-summary"> Young people with epilepsy who responded to our
+                                    survey told us </p>
+                            </div>
+                        </header>
+                        <div class="container">
+                            <ul class="statistic" id="countup" data-sr-id="0" style="visibility: visible; opacity: 1;">
+                                <li class="statistic-item" id="myTargetElement1157">
+                                    <div class="statistic-value"> <span class="statistic-value-number counter"
+                                            data-value="99%">99%</span> </div>
+                                    <h3 class="statistic-title">Impact on Mental Health</h3>
+                                    <div class="statistic-summary">
+                                        <p>99% of young people, who responded to our survey, told us living with
+                                            epilepsy has had an impact on their mental health</p>
+                                    </div>
+                                </li>
+                                <li class="statistic-item" id="myTargetElement7722">
+                                    <div class="statistic-value"> <span class="statistic-value-number counter"
+                                            data-value="66%">66%</span> </div>
+                                    <h3 class="statistic-title">Impact on Physical Health</h3>
+                                    <div class="statistic-summary">
+                                        <p>66% of young people, who responded to our survey, told us living with
+                                            epilepsy has had an impact on their physical health </p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </section>
+                    <section class="arrow-sep-outer section" data-scroll-effect="arrowFade"
+                        data-scroll-effect-speed="7000" style="padding-bottom: 0px !important;">
+                        <section class="arrow-sep-outer section" data-scroll-effect="arrowFade"
+                            data-scroll-effect-speed="3000">
+                            <div class="container"> <span class="arrow-sep-arrow"></span> <span
+                                    class="arrow-sep-line"></span> <span class="arrow-sep-arrow animate-on-view"></span>
+                                <span class="arrow-sep-line animate-on-view"></span> </div>
+                        </section>
+                        <script> document.addEventListener('DOMContentLoaded', function () { const observer = new IntersectionObserver((entries) => { entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('animate'); } else { entry.target.classList.remove('animate'); } }); }); document.querySelectorAll('.animate-on-view').forEach(element => { observer.observe(element); }); }); </script>
+                        <section class="media-block-outer script-title left section">
+                            <div class="container">
+                                <div class="media-block" id="">
+                                    <figure class="media-block-element">
+                                        <picture>
+                                            <source
+                                                srcset="/sites/default/files/styles/media_block_l/public/2024-10/Jasmine--Mental-Health-Blog--Blog-Image-22_0.png.webp?itok=8dbhqbhG 1x"
+                                                media="all and (min-width: 1700px)" type="image/webp">
+                                            <source
+                                                srcset="/sites/default/files/styles/media_block_l/public/2024-10/Jasmine--Mental-Health-Blog--Blog-Image-22_0.png.webp?itok=8dbhqbhG 1x"
+                                                media="all and (min-width: 1440px)" type="image/webp">
+                                            <source
+                                                srcset="/sites/default/files/styles/media_block_l/public/2024-10/Jasmine--Mental-Health-Blog--Blog-Image-22_0.png.webp?itok=8dbhqbhG 1x"
+                                                media="all and (min-width: 1280px)" type="image/webp">
+                                            <source
+                                                srcset="/sites/default/files/styles/media_block_l/public/2024-10/Jasmine--Mental-Health-Blog--Blog-Image-22_0.png.webp?itok=8dbhqbhG 1x"
+                                                media="all and (min-width: 960px)" type="image/webp">
+                                            <source
+                                                srcset="/sites/default/files/styles/media_block_m/public/2024-10/Jasmine--Mental-Health-Blog--Blog-Image-22_0.png.webp?itok=sB4bSgQp 1x"
+                                                media="all and (min-width: 700px)" type="image/webp">
+                                            <source
+                                                srcset="/sites/default/files/styles/media_block_s/public/2024-10/Jasmine--Mental-Health-Blog--Blog-Image-22_0.png.webp?itok=mVYhJ4Ku 1x"
+                                                media="all and (min-width: 560px)" type="image/webp"> <img
+                                                loading="lazy"
+                                                src="/sites/default/files/styles/media_block_s/public/2024-10/Jasmine--Mental-Health-Blog--Blog-Image-22_0.png.webp?itok=mVYhJ4Ku"
+                                                alt="young girl walking her dog on a hill"
+                                                style="max-width: 100%; height: auto;">
+                                        </picture>
+                                    </figure>
+                                    <div class="media-block-info">
+                                        <div class="media-block-content">
+                                            <h2 class="media-block-title" data-scroll-effect="bgslide"
+                                                data-scroll-effect-speed="7000">How I gained <span
+                                                    class="title-word">control of my anxiety</span> </h2>
+                                            <div class="content">
+                                                <p>I was diagnosed with absence epilepsy at eleven years old. Since then
+                                                    I have been on a journey with my anxiety.</p>
+                                            </div> <a
+                                                href="https://www.youngepilepsy.org.uk/news/how-i-gained-control-my-anxiety"
+                                                class="button display-button-text"
+                                                aria-label="How I gained &lt;span class=&quot;title-word&quot;&gt;control of my anxiety&lt;/span&gt; ">
+                                                <span class="">Read Jasmine's story</span> </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section class="arrow-sep-outer section" data-scroll-effect="arrowFade"
+                            data-scroll-effect-speed="7000" style="padding-bottom: 0px !important;">
+                            <section class="arrow-sep-outer section" data-scroll-effect="arrowFade"
+                                data-scroll-effect-speed="3000">
+                                <div class="container"> <span class="arrow-sep-arrow"></span> <span
+                                        class="arrow-sep-line"></span> <span
+                                        class="arrow-sep-arrow animate-on-view"></span> <span
+                                        class="arrow-sep-line animate-on-view"></span> </div>
+                            </section>
+                            <script> document.addEventListener('DOMContentLoaded', function () { const observer = new IntersectionObserver((entries) => { entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('animate'); } else { entry.target.classList.remove('animate'); } }); }); document.querySelectorAll('.animate-on-view').forEach(element => { observer.observe(element); }); }); </script>
+                            <section class="accordion dark section" id="What-can-I-do-if-I-feel-anxious">
+                                <header class="section-header container">
+                                    <div class="content-wrapper"> <span class="section-header-subtitle"></span>
+                                        <h2 class="section-header-title">What can I do if I feel anxious?</h2>
+                                        <p class="section-header-summary"></p>
+                                    </div>
+                                </header>
+                                <div class="container">
+                                    <div class="accordion-outer">
+                                        <div class="accordion-item">
+                                            <div class="accordion-button accordion-trigger" aria-expanded="false"
+                                                aria-controls="accordion-panel-Grounding-techniques"> <span
+                                                    class="key-date">Grounding techniques</span> <span
+                                                    aria-hidden="true" class="icon"> <span> </span></span></div>
+                                            <div class="accordion-panel"
+                                                aria-labelledby="accordion-button-Grounding-techniques" tabindex="-1">
+                                                <div class="accordion-summary">
+                                                    <p></p>
+                                                    <div class="content">
+                                                        <p>Focus on your senses: 5 things you can see, 4 things you can
+                                                            hear, 3 things you can touch, 2 things you can smell, 1
+                                                            thing you can taste.</p>
+                                                    </div>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-button accordion-trigger" aria-expanded="false"
+                                                aria-controls="accordion-panel-10-second-rule"> <span
+                                                    class="key-date">10 second rule</span> <span aria-hidden="true"
+                                                    class="icon"> <span> </span></span></div>
+                                            <div class="accordion-panel"
+                                                aria-labelledby="accordion-button-10-second-rule" tabindex="-1">
+                                                <div class="accordion-summary">
+                                                    <p></p>
+                                                    <div class="content">
+                                                        <p>The&nbsp;<strong>10 second rule</strong>: Focus on getting
+                                                            through the next 10 seconds and breaking each hour into
+                                                            manageable chunks of time. If you feel that worry start to
+                                                            rise, wait 10 seconds&nbsp;<strong>before you
+                                                                respond</strong>. That's it. Just stop.</p>
+                                                    </div>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-button accordion-trigger" aria-expanded="false"
+                                                aria-controls="accordion-panel-Square-breathing"> <span
+                                                    class="key-date">Square breathing</span> <span aria-hidden="true"
+                                                    class="icon"> <span> </span></span></div>
+                                            <div class="accordion-panel"
+                                                aria-labelledby="accordion-button-Square-breathing" tabindex="-1">
+                                                <div class="accordion-summary">
+                                                    <p></p>
+                                                    <div class="content">
+                                                        <p>Practice&nbsp;<a
+                                                                href="https://www.youtube.com/watch?v=aNXKjGFUlMs"
+                                                                target="_blank"><strong>square breathing</strong></a>:
+                                                            Breathe in for 4 seconds, hold for 4, out for 4, hold for 4
+                                                            and repeat.</p>
+                                                    </div>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-button accordion-trigger" aria-expanded="false"
+                                                aria-controls="accordion-panel-CBT"> <span class="key-date">CBT</span>
+                                                <span aria-hidden="true" class="icon"> <span> </span></span></div>
+                                            <div class="accordion-panel" aria-labelledby="accordion-button-CBT"
+                                                tabindex="-1">
+                                                <div class="accordion-summary">
+                                                    <p></p>
+                                                    <div class="content">
+                                                        <p>Have you heard of&nbsp;<strong>CBT</strong>&nbsp;(<a
+                                                                href="https://www.mind.org.uk/information-support/drugs-and-treatments/talking-therapy-and-counselling/cognitive-behavioural-therapy-cbt/"
+                                                                target="_blank">Cognitive Behaviour Therapy</a>)? If you
+                                                            are struggling with severe anxiety, visit your GP and they
+                                                            may refer you for Cognitive Behaviour Therapy.&nbsp;</p>
+                                                    </div>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-button accordion-trigger" aria-expanded="false"
+                                                aria-controls="accordion-panel-Practice-mindfulness"> <span
+                                                    class="key-date">Practice mindfulness</span> <span
+                                                    aria-hidden="true" class="icon"> <span> </span></span></div>
+                                            <div class="accordion-panel"
+                                                aria-labelledby="accordion-button-Practice-mindfulness" tabindex="-1">
+                                                <div class="accordion-summary">
+                                                    <p></p>
+                                                    <div class="content">
+                                                        <p><a
+                                                                href="https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/"><strong>Practice
+                                                                    mindfulness</strong></a><strong> </strong>when
+                                                            you’re brushing your teeth, eating a meal, walking
+                                                            outside.&nbsp;Actively using the senses to make yourself
+                                                            fully present with whatever you are doing.</p>
+                                                    </div>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-button accordion-trigger" aria-expanded="false"
+                                                aria-controls="accordion-panel-Listen-to-a-podcast"> <span
+                                                    class="key-date">Listen to a podcast</span> <span aria-hidden="true"
+                                                    class="icon"> <span> </span></span></div>
+                                            <div class="accordion-panel"
+                                                aria-labelledby="accordion-button-Listen-to-a-podcast" tabindex="-1">
+                                                <div class="accordion-summary">
+                                                    <p></p>
+                                                    <div class="content">
+                                                        <p>Listen to a&nbsp;<strong>relatable podcast</strong>. There
+                                                            are lots of others available on&nbsp;<a
+                                                                href="https://www.apple.com/apple-podcasts/"
+                                                                target="_blank">iTunes</a>&nbsp;and&nbsp;<a
+                                                                href="https://www.spotify.com/uk/"
+                                                                target="_blank">Spotify</a>&nbsp;for free, have a look
+                                                            and see what best suits how you feel.&nbsp;</p>
+                                                    </div>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-button accordion-trigger" aria-expanded="false"
+                                                aria-controls="accordion-panel-Art-therapy"> <span class="key-date">Art
+                                                    therapy</span> <span aria-hidden="true" class="icon"> <span>
+                                                    </span></span></div>
+                                            <div class="accordion-panel" aria-labelledby="accordion-button-Art-therapy"
+                                                tabindex="-1">
+                                                <div class="accordion-summary">
+                                                    <p></p>
+                                                    <div class="content">
+                                                        <p>Try&nbsp;<strong>Art Therapy</strong>&nbsp;such as&nbsp;<a
+                                                                href="https://www.amazon.co.uk/s?k=mindfulness+colouring+book&amp;i=stripbooks&amp;crid=2AYMLQZ7K6AMP&amp;sprefix=mindfulness+colouring+book%2Cstripbooks%2C76&amp;ref=nb_sb_noss_1"
+                                                                target="_blank">adult mindful colouring</a>.</p>
+                                                    </div>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <div class="accordion-button accordion-trigger" aria-expanded="false"
+                                                aria-controls="accordion-panel-Guided-meditation"> <span
+                                                    class="key-date">Guided meditation</span> <span aria-hidden="true"
+                                                    class="icon"> <span> </span></span></div>
+                                            <div class="accordion-panel"
+                                                aria-labelledby="accordion-button-Guided-meditation" tabindex="-1">
+                                                <div class="accordion-summary">
+                                                    <p></p>
+                                                    <div class="content">
+                                                        <p><strong>Guided Meditations</strong>&nbsp;to support with
+                                                            breath work are available for free on&nbsp;<a
+                                                                href="https://www.youtube.com/watch?v=syx3a1_LeFo"
+                                                                target="_blank">Youtube</a>.</p>
+                                                    </div>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section class="arrow-sep-outer section" data-scroll-effect="arrowFade"
+                                data-scroll-effect-speed="7000" style="padding-bottom: 0px !important;">
+                                <section class="arrow-sep-outer section" data-scroll-effect="arrowFade"
+                                    data-scroll-effect-speed="3000">
+                                    <div class="container"> <span class="arrow-sep-arrow"></span> <span
+                                            class="arrow-sep-line"></span> <span
+                                            class="arrow-sep-arrow animate-on-view"></span> <span
+                                            class="arrow-sep-line animate-on-view"></span> </div>
+                                </section>
+                                <script> document.addEventListener('DOMContentLoaded', function () { const observer = new IntersectionObserver((entries) => { entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('animate'); } else { entry.target.classList.remove('animate'); } }); }); document.querySelectorAll('.animate-on-view').forEach(element => { observer.observe(element); }); }); </script>
+                                <div class="container">
+                                    <section class="wysiwyg section" id="Where-can-I-access-support">
+                                        <div class="container">
+                                            <div class="content" id="">
+                                                <h2><strong>Where can I access support?</strong></h2>
+                                                <p><strong>If you feel you are experiencing anxiety, please contact your
+                                                        GP.&nbsp;</strong></p>
+                                                <p>If you are struggling with anxiety, remember,&nbsp;<strong>you are
+                                                        not alone.&nbsp;</strong></p>
+                                                <p>Try downloading one of these apps that young people recommend:&nbsp;
+                                                </p>
+                                                <ul>
+                                                    <li><a href="https://www.calm.com/" target="_blank"
+                                                            rel="noreferrer noopener"><strong><u>Calm</u></strong></a> -
+                                                        The number one app for meditation and sleep &nbsp;</li>
+                                                    <li><a href="https://www.headspace.com/?%243p=a_google_adwords&amp;%24always_deeplink=false&amp;lpurl=https%3A%2F%2Fwww.headspace.com%3Fgclsrc%3Daw.ds%26&amp;~ad_set_id=51529951612&amp;~campaign_id=917256451&amp;~channel=g&amp;~keyword=headspace&amp;~placement&amp;gclid=CjwKCAiAs92MBhAXEiwAXTi252nmN583rk8qE3sANgZmNsuWYYX2QtLR_qJ3R2i8whoAS6TRW_6MWhoCNo8QAvD_BwE&amp;gclid=CjwKCAiAs92MBhAXEiwAXTi252nmN583rk8qE3sANgZmNsuWYYX2QtLR_qJ3R2i8whoAS6TRW_6MWhoCNo8QAvD_BwE&amp;gclsrc=aw.ds&amp;%24web_only=true&amp;_branch_match_id=990259761783300586&amp;utm_source=Google%20AdWords&amp;utm_medium=paid%20advertising&amp;_branch_referrer=H4sIAAAAAAAAA72QXW%2BCMBSGf025G4TWIixplqqY7EMSnQm6m6bSjjILrRTX%2BO8HXvgTlpybc568eU5eNQzWPUeRklw4yyv55OUp5NaGuunOkYy4da9pZlwhTi8AzpAlnNXG1FoyLrzphQvGM9ee3xwTUtopR765djLQ9tproiYFQBTA9Tje%2B%2FAhCyvTArSuK%2B36CqAV96FwACYBmOdcMCcH1giCYwyzDMdJDCdQ8dbypu4mlMVziJMZju9A8a6TmtTTcpa36TvycAWjZUwsf%2Fz7kjbUZXCzUPSQN54e9g3EsGsLnKL%2BnF5y5GhRf7WFu5bH4wFuh48du7yhHWxSrwz9TPa7kiWbUpllYdIt%2FV2xhc%2F%2FxzA2Re49%2FQGIt3IIuwEAAA%3D%3D"
+                                                            target="_blank"
+                                                            rel="noreferrer noopener"><strong><u>Headspace</u></strong></a> -
+                                                        A meditation and mindfulness app for reducing stress
+                                                        &amp; better sleep&nbsp;</li>
+                                                    <li><a href="https://www.worry-tree.com/" target="_blank"
+                                                            rel="noreferrer noopener"><strong><u>WorryTree</u></strong></a> -
+                                                        Helps you record, manage and problem solve your worries and
+                                                        anxiety based on CBT techniques. Built by worriers, for
+                                                        worriers.&nbsp;</li>
+                                                </ul>
+                                                <p>If you feel like you would like to talk to someone, reach out to one
+                                                    of the organisations below. There are people ready and waiting to
+                                                    support you:&nbsp;</p>
+                                                <ul>
+                                                    <li><a href="http://www.sane.org.uk/what_we_do/support/helpline"
+                                                            target="_blank"
+                                                            rel="noreferrer noopener"><strong><u>SANEline</u></strong></a>
+                                                        (for age 16 and over)</li>
+                                                    <li><a href="https://www.youngepilepsy.org.uk/shout" target="_blank"
+                                                            rel="noreferrer noopener"><strong><u>SHOUT</u></strong></a><strong> -
+                                                            text PURPLE to 85258</strong>&nbsp;</li>
+                                                </ul>
+                                                <p><a href="https://www.youngepilepsy.org.uk/signposting">Find further
+                                                        signposting and how you can receive support from Young
+                                                        Epilepsy.&nbsp;</a></p>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                                <section class="cta-outer section" id="Struggling-to-cope">
+                                    <div class="cta">
+                                        <div class="cta-inner">
+                                            <div class="cta-inner-content">
+                                                <h2 class="cta-title" "="">Are you struggling to cope? </h2> <div class="
+                                                    cta-summary">
+                                                    <p> For anyone struggling with their mental health, we have
+                                                        partnered with SHOUT, a FREE 24/7 confidential text service.
+                                                        <br> <br> To start a conversation Text PURPLE to 85258 </p>
+                                            </div> <a href="https://www.youngepilepsy.org.uk/shout"
+                                                class="button-yellow">Find out more</a>
+                                        </div>
+                                    </div>
+            </div>
+            </section>
+            <section class="pullquote-outer section">
+                <div class="container">
+                    <div class="pullquote no-image" id="">
+                        <div class="pullquote-info">
+                            <blockquote>Explain to your friends how you are feeling and why. I think you will be
+                                surprised how understanding and supportive people can be . xx</blockquote> <cite>
+                                Throughout our #OnTopOfEpilepsy campaign, supporters shared messages of support </cite>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="media-block-outer script-title left section">
+                <div class="container">
+                    <div class="media-block" id="">
+                        <figure class="media-block-element"> <a href="https://www.youtube.com/watch?v=pLkbZljsB0A"
+                                class="media-block-element-play popup-video"> <svg aria-hidden="true" class="icon">
+                                    <use xlink:href="/themes/custom/hc/assets//svg/icons.svg#play"></use>
+                                </svg> <span class="visually-hidden">Play video</span> </a>
+                            <picture>
+                                <source
+                                    srcset="/sites/default/files/styles/media_block_l/public/2023-04/Still%2003.png.webp?itok=gTUmGJGF 1x"
+                                    media="all and (min-width: 1700px)" type="image/webp">
+                                <source
+                                    srcset="/sites/default/files/styles/media_block_l/public/2023-04/Still%2003.png.webp?itok=gTUmGJGF 1x"
+                                    media="all and (min-width: 1440px)" type="image/webp">
+                                <source
+                                    srcset="/sites/default/files/styles/media_block_l/public/2023-04/Still%2003.png.webp?itok=gTUmGJGF 1x"
+                                    media="all and (min-width: 1280px)" type="image/webp">
+                                <source
+                                    srcset="/sites/default/files/styles/media_block_l/public/2023-04/Still%2003.png.webp?itok=gTUmGJGF 1x"
+                                    media="all and (min-width: 960px)" type="image/webp">
+                                <source
+                                    srcset="/sites/default/files/styles/media_block_m/public/2023-04/Still%2003.png.webp?itok=-5gi6j42 1x"
+                                    media="all and (min-width: 700px)" type="image/webp">
+                                <source
+                                    srcset="/sites/default/files/styles/media_block_s/public/2023-04/Still%2003.png.webp?itok=kSuakQK- 1x"
+                                    media="all and (min-width: 560px)" type="image/webp"> <img loading="lazy"
+                                    src="/sites/default/files/styles/media_block_s/public/2023-04/Still%2003.png.webp?itok=kSuakQK-"
+                                    alt="A photograph of Joe, one of our Young Reps"
+                                    style="max-width: 100%; height: auto;">
+                            </picture>
+                        </figure>
+                        <div class="media-block-info">
+                            <div class="media-block-content">
+                                <h2 class="media-block-title" data-scroll-effect="bgslide"
+                                    data-scroll-effect-speed="7000">Members of our Youth Voice Network <span
+                                        class="title-word">share their advice...</span> </h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            </section>
+            </section>
+            </section>
+            </section>
+    </div>
+    </main>
+    </div>
+    <script
+        src="/sites/default/files/js/js_u1s3GycJG6JVjHIjjbpbtTdBYLzJ0iDB7861oS8SB1E.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=hc&amp;include=eJzLSNZPzi_NKyktAAAVEwQJ"></script>
+    <script type="text/javascript" id=""
+        charset="">window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments) } var analyticsConsent = sessionStorage.getItem("analytics_consent"), marketingConsent = sessionStorage.getItem("marketing_consent"), analyticsGranted = analyticsConsent === "a001", marketingGranted = marketingConsent === "a001"; gtag("consent", "default", { analytics_storage: analyticsGranted ? "granted" : "denied", ad_storage: marketingGranted ? "granted" : "denied", ad_user_data: marketingGranted ? "granted" : "denied", ad_personalization: marketingGranted ? "granted" : "denied" });</script>
+    <script type="text/javascript" id=""
+        charset="">Element.prototype.matches || (Element.prototype.matches = Element.prototype.matchesSelector || Element.prototype.mozMatchesSelector || Element.prototype.msMatchesSelector || Element.prototype.oMatchesSelector || Element.prototype.webkitMatchesSelector || function (a) { a = (this.document || this.ownerDocument).querySelectorAll(a); for (var b = a.length; 0 <= --b && a.item(b) !== this;); return -1 < b });</script>
+    <script id="" text="" charset="" type="text/javascript"
+        src="https://www.googletagmanager.com/gtag/js?id=AW-11101714406"></script>
+    <script type="text/javascript" id=""
+        charset="">focus(); var iframeSelector = "iframe", gaEventName = "newsletter_signup_begin", iframeListener = window.addEventListener("blur", function () { document.activeElement === document.querySelector(iframeSelector) && dataLayer.push({ event: "GAEvent", event_name: gaEventName }); window.removeEventListener("blur", iframeListener) });</script>
+    <script src="https://unpkg.com/scrollreveal@4.0.9/dist/scrollreveal.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/countupjs/1.8.5/countUp.min.js"></script>
+    <script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js"></script>
+    <script> var config = { apiKey: 'ccd11539495ea9c3bbae63d00cefd157b6b6feb4', product: 'COMMUNITY', initialState: 'OPEN', necessaryCookies: ['CONSENT', 'cookieconsent', '[SessionID*', '__paypal_storage__', 'enforce_policy', 'l7_az', 'm', 'ts', 'ts_c', 'popupClosed'], optionalCookies: [{ name: 'performance', label: 'Performance', description: 'We make use of analytics cookies to analyse how visitors use our website and to monitor the site\'s performance. This allows us to provide a continually improving experience for our users. For more information on how these cookies work please see our cookie information.', cookies: ['_ga', '_ga_*', '_ga_#', '_ga*', '_gid', '_gat', '_gat*', 'collect', '__utma', '__utmt', '__utmb', '__utmc', '__utmz', '__utmv', '_dc_gtm*', '_gcl_au', '_hjAbsoluteSessionInProgress', '_hjid', 'collect', 'personalization_id', '_hjAbsoluteSessionInProgress', '_hjIncludedInPageviewSample'], onAccept: function () { dataLayer.push({ 'civic_cookies_analytics': 'a001', 'event': 'civicCookies_analyticsAccept' }) }, onRevoke: function () { dataLayer.push({ 'civic_cookies_analytics': 'a000', 'event': 'civicCookies_analyticsDecline' }) } }, { name: 'advertising', label: 'Advertising', description: 'These cookies collect information about the browsing habits associated with your device and are used by third-party providers to make advertising more relevant to you and your interests.', cookies: ['NID', '_fbp', 'bcookie', 'bscookie', 'fr', 'GPS', 'i/adsct', 'IDE', 'lidc', 'lissc', 'pagead/1p-user-list/#', 'test_cookie', 'tr', 'UserMatchHistory', 'VISITOR_INFO1_LIVE', 'YSC', 'yt-remote-cast-installed', 'yt-remote-connected-devices', 'yt-remote-device-id'], onAccept: function () { dataLayer.push({ 'civic_cookies_marketing': 'a001', 'event': 'civicCookies_marketingAccept' }) }, onRevoke: function () { dataLayer.push({ 'civic_cookies_marketing': 'a000', 'event': 'civicCookies_marketingDecline' }) } }], position: 'LEFT', theme: 'LIGHT', closeStyle: 'button', text: { closeLabel: 'Save and close', acceptSettings: 'Accept recommended settings', rejectSettings: 'I do not accept', title: 'Our use of cookies', intro: 'We use necessary cookies to make our site work. We also use optional analytics cookies to help us make improvements to the website. Our media players and maps have their own cookies the media will not work without cookies enabled.', necessaryTitle: 'Essential', necessaryDescription: 'Essential cookies enable core functionality such as page navigation and access to secure areas. You can disable these by changing your browser settings, but this may affect how the website functions.' }, statement: { description: 'For more detailed information about the cookies we use, see our ', name: 'cookies policy', url: 'https://www.youngepilepsy.org.uk/privacy', updated: '23/06/2022' }, }; CookieControl.load(config); </script>
+    <script type="text/javascript" id=""
+        charset="">window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments) } gtag("js", new Date); gtag("config", "AW-11101714406");</script>
+    <iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
+</body>
+
+</html>
+''';
